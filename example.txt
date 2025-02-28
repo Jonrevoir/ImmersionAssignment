@@ -1,3 +1,1 @@
 This is an example file
-
-now we have edited the file
